@@ -1,0 +1,14 @@
+__pycache__
+.ipynb_checkpoints/
+.vscode/
+configs/
+datasets/pyg/
+local/
+remote/
+wandb/
+test.py
+test.ipynb
+configs.yaml
+clean.sh
+sync.sh
+test_efficiency.py
