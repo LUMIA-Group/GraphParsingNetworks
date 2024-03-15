@@ -3,7 +3,7 @@
 The official implementation of the paper "Graph Parsing Networks" ([ICLR 2024](https://openreview.net/forum?id=hv3SklibkL)).
 
 <p align="middle">
-<img src="pooling_layer.png" width="600">
+<img src="pooling_layer.png" height="350">
 </p>
 
 ## Dependencies
